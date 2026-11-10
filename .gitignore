@@ -3,4 +3,5 @@
 __pycache__/
 *.pyc
 rag/vectors.npz
+rag/chroma/
 .DS_Store
